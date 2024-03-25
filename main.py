@@ -95,7 +95,7 @@ def main():
     keyauthapp = initialize_keyauthapp()
     
     try:
-        print("""1. Вход
+        print("""1. УЁБИЩЕ
 2. Регистрация
 3. Обновление
 4. Только лицензионный ключ
